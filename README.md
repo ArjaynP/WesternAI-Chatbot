@@ -1,2 +1,2 @@
 # WesternAI-Chatbot
-Using Natural Language Processing (NLP) and Recurrent Neural Networks (RNN)
+Myself, and my team members, Keerat Ghuman, and Muneeb Asif created a mock Chatbot Service for Western University where students will be allowed to ask questions and receive accurate responses at any time of the day, ranging from various academic topics (OSAP, Course Registration, etc.) We created a frontend in forms of a website HTML, CSS, and JavaScript, while Incorporating RNN and Bidirectional Recurrent Neural Networks for the Chatbot deployment. We used AI concepts such as Natural Language Processing for the Chatbot model and it was deployed using Javascript and Flask.
